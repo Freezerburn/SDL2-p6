@@ -2,3 +2,4 @@ SDL2
 OpenGL
 SDL2.dll
 libGL.dylib
+.precomp
